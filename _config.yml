@@ -1,13 +1,13 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Ian Dieb
+description: Direito, tecnologia, educação.
+site_title: 'Ian Dieb - Portfolio'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: din-grogu 
 blog_url: https://www.nagekar.com
 email: abhishek@nagekar.com
 keybase_username: abhn
