@@ -4,7 +4,7 @@ site_title: 'Ian Dieb - Portfolio'
 
 # Build settings
 markdown: kramdown
-exclude: [vendor/ruby]
+exclude: vendor/ruby
 
 # Personalization
 github_username: din-grogu 
